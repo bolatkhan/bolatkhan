@@ -1,11 +1,16 @@
 ## Hi there 👋
 
-- 👩🏻‍🎓 Studied Computer Science
-- 👩🏻‍💻 Worked as a Technical Product Manager
-- 🌱 Currently learning Data Analytics(DA)
-- 👯 Looking to collaborate on any projects related to DA
-- 📫 How to reach me: askhat.bolatkhan@gmail.com
-- 😄 Pronouns: he/him
+👩🏻‍🎓 Background: I have a degree in Computer Science and 7 years of experience as a Product Manager, including launching my own startups.
+
+👩🏻‍💻 Currently: Transitioning into Data Analytics — deepening my skills in data cleaning, exploratory data analysis (EDA), and data visualization.
+
+🌱 Learning & Growing: Continuously improving my proficiency in Python, SQL, Pandas, and Tableau.
+
+🤝 Open to Collaborate: I'm eager to contribute to projects involving Data Analytics, EDA, and Data Visualization.
+
+📫 Get in Touch:
+LinkedIn: https://www.linkedin.com/in/bolatkhan/ 
+📧 askhat.bolatkhan@gmail.com
 
 
 ## 💻 Tech Stack
